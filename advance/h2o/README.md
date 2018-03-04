@@ -36,6 +36,21 @@
  - Launching Cluster (deploy mode - client vs cluster)
 
 
+## [6. H2O through pysparkling](https://github.com/Avkash/appliedml/blob/master/advance/h2o/h2o_pysparkling.md) ##
+ - Installation
+ - Connection spark cluster
+ - pysparkling
+   - GBM Example
+   - DRF Sample
+ 
+## [7. H2O through rsparkling](https://github.com/Avkash/appliedml/blob/master/advance/h2o/h2o_rsparkling.md) ##
+ - Installation
+ - Connection spark cluster
+ - Analyzing Job and data
+ - rsparkling
+   - GBM Example
+   - DRF Sample
+
 
 ## Tips and Tricks ##
   - [Converting pyspark.sql.dataframe.DataFrame to H2O Data Frame](https://github.com/Avkash/appliedml/blob/master/advance/h2o/spark/h2o_spark_df_conversion.md)
