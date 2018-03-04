@@ -20,3 +20,11 @@
  - Python
  - R
  - Scala
+
+
+## [4. Accessing H2O library](https://github.com/Avkash/appliedml/blob/master/starter/h2o/h2o_access.md) ##
+ - Web Frontend (FLOW)
+ - Python
+ - R
+ - Connecting H2O from R/Python API
+   
