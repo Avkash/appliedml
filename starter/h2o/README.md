@@ -28,3 +28,11 @@
  - R
  - Connecting H2O from R/Python API
    
+## [5. Data Ingest](https://github.com/Avkash/appliedml/blob/master/starter/h2o/h2o_data_ingest.md) ##
+ - Supported File Formats
+ - Supported Data Types
+ - Supported Data Source
+ - Ingesting data in H2O
+   - Importing a File (FLOW | Python | R | Scala)
+   - Importing Multiple Files (FLOW | Python | R | Scala)
+   - Uploading a File (FLOW | Python | R | Scala)
