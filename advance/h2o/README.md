@@ -52,6 +52,12 @@
    - DRF Sample
  - Troubleshooting rsparkling projects
 
+## [8. Accessing H2O library](https://github.com/Avkash/appliedml/blob/master/advance/h2o/h2o_access.md) ##
+ - Connecting H2O from R/Python API
+ - Scala with H2O
+ - Difference between h2o.init() and h2o.connect()
+ - Accessing H2O EC2 Instance from your OSX/Windows Machine
+   
 
 ## Tips and Tricks ##
   - [Converting pyspark.sql.dataframe.DataFrame to H2O Data Frame](https://github.com/Avkash/appliedml/blob/master/advance/h2o/spark/h2o_spark_df_conversion.md)
