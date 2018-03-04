@@ -58,6 +58,15 @@
  - Difference between h2o.init() and h2o.connect()
  - Accessing H2O EC2 Instance from your OSX/Windows Machine
    
+## [9. Data Ingest](https://github.com/Avkash/appliedml/blob/master/advance/h2o/h2o_data_ingest.md) ##
+ - Supported Data Source
+ - Ingesting data in H2O
+   - Importing a File (Scala)
+   - Importing Multiple Files (Scala)
+   - Uploading a File (Scala)
+ - [Ingest data from S3 & export to S3N/S3A](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_ingest_s3_general.md)
+ - [Ingesting Data from S3 from Java API](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_ingest_s3_java.md)
+
 
 ## Tips and Tricks ##
   - [Converting pyspark.sql.dataframe.DataFrame to H2O Data Frame](https://github.com/Avkash/appliedml/blob/master/advance/h2o/spark/h2o_spark_df_conversion.md)
