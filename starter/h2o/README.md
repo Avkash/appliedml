@@ -48,5 +48,9 @@
  - Pandas, numpy and H2O Dataframes
  - H2O and R Dataframes
  
- 
+## [8. Spliting dataset in H2O](https://github.com/Avkash/appliedml/blob/master/starter/h2o/h2o_dataset_split.md) ##
+ - Why spliting datasets
+ - H2O Dataframe split in FLOW
+ - H2O Dataframe split in Python
+ - H2O Dataframe split in R
  
