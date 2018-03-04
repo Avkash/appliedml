@@ -10,3 +10,13 @@
  - H2O on Hadoop
  - H2O on Spark
  - H2O in Docker
+
+## [3. Starting H2O cluster](https://github.com/Avkash/appliedml/blob/master/advance/h2o/h2o_start.md) ##
+ - In Cluster Mode
+   - Multicast
+   - Flatfile
+ - Starting in Hadoop
+ - Starting Spark
+ - Tips and Tricks
+ 
+ 
