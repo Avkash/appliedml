@@ -13,7 +13,4 @@
     - Supports 2.7 and 3.5
    - For R
  - Installtion On Premise
- - Installation as H2O Cluster
  - H2O in Conda Environment
- - Hadoop
- - Spark
