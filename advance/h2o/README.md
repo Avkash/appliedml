@@ -64,8 +64,9 @@
    - Importing a File (Scala)
    - Importing Multiple Files (Scala)
    - Uploading a File (Scala)
- - [Ingest data from S3 & export to S3N/S3A](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_ingest_s3_general.md)
- - [Ingesting Data from S3 from Java API](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_ingest_s3_java.md)
+ - [Ingest data from S3 & export to S3N/S3A](https://github.com/Avkash/appliedml/blob/master/advance/h2o/h2o_ingest_s3_general.md)
+ - [Ingesting Data from S3 from Java API](https://github.com/Avkash/appliedml/blob/master/advance/h2o/h2o_ingest_s3_java.md)
+
 
 
 ## Tips and Tricks ##
