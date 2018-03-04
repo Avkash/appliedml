@@ -14,3 +14,9 @@
    - For R
  - Installtion On Premise
  - H2O in Conda Environment
+
+## [3. Starting H2O cluster](https://github.com/Avkash/appliedml/blob/master/starter/h2o/h2o_start.md) ##
+ - FLOW
+ - Python
+ - R
+ - Scala
