@@ -5,7 +5,7 @@
  - H2O in Docker
  - H2O API
   
-## [2. Installation]() ##
+## [2. Installation](https://github.com/Avkash/appliedml/blob/master/advance/h2o/h2o_install.md) ##
  - H2O as multiple node cluster
  - H2O on Hadoop
  - H2O on Spark
