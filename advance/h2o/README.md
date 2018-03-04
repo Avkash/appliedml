@@ -35,3 +35,7 @@
  - Starting from Scala command line
  - Launching Cluster (deploy mode - client vs cluster)
 
+
+
+## Tips and Tricks ##
+  - [Converting pyspark.sql.dataframe.DataFrame to H2O Data Frame](https://github.com/Avkash/appliedml/blob/master/advance/h2o/spark/h2o_spark_df_conversion.md)
