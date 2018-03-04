@@ -67,7 +67,18 @@
  - [Ingest data from S3 & export to S3N/S3A](https://github.com/Avkash/appliedml/blob/master/advance/h2o/h2o_ingest_s3_general.md)
  - [Ingesting Data from S3 from Java API](https://github.com/Avkash/appliedml/blob/master/advance/h2o/h2o_ingest_s3_java.md)
 
+## [10. Ingesting data from RDBS in Python and R](https://github.com/Avkash/appliedml/blob/master/advance/h2o/h2o_sql_ingest.md) ##
+ - Supported Scenarios
+ - Python API
+ - R API
 
+## [11. Create Test dataset with H2O of any size and and type](https://github.com/Avkash/appliedml/blob/master/advance/h2o/h2o_data_man_createframe.md) ##
+ - Why test datasets?
+ - FLOW
+ - Python
+ - R
+ 
+ 
 
 ## Tips and Tricks ##
   - [Converting pyspark.sql.dataframe.DataFrame to H2O Data Frame](https://github.com/Avkash/appliedml/blob/master/advance/h2o/spark/h2o_spark_df_conversion.md)
