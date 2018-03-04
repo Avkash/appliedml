@@ -15,8 +15,17 @@
  - In Cluster Mode
    - Multicast
    - Flatfile
- - Starting in Hadoop
- - Starting Spark
  - Tips and Tricks
  
- 
+## [4. Starting H2O cluster in Hadoop](https://github.com/Avkash/appliedml/blob/master/advance/h2o/h2o_start_hadoop.md) ## 
+ - Starting in Hadoop
+   - Cloudera
+   - Hortworks HDP
+   - Mapr
+   - Apache Hadoop
+ - Starting H2O in EMR   
+ - H2O Cluster Settings
+
+## [4. Starting H2O cluster in Spark](https://github.com/Avkash/appliedml/blob/master/advance/h2o/h2o_start_spark.md) ## 
+ - Starting Spark
+
