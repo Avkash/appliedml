@@ -18,7 +18,7 @@
  - Tips and Tricks
  
 ## [4. Starting H2O cluster in Hadoop](https://github.com/Avkash/appliedml/blob/master/advance/h2o/h2o_start_hadoop.md) ## 
- - Starting in Hadoop
+ - Starting H2O in supported Hadoop distributions
    - Cloudera
    - Hortworks HDP
    - Mapr
@@ -26,6 +26,12 @@
  - Starting H2O in EMR   
  - H2O Cluster Settings
 
-## [4. Starting H2O cluster in Spark](https://github.com/Avkash/appliedml/blob/master/advance/h2o/h2o_start_spark.md) ## 
- - Starting Spark
+## [5. Starting H2O cluster in Spark](https://github.com/Avkash/appliedml/blob/master/advance/h2o/h2o_start_spark.md) ## 
+ - Starting H2O in Spark
+   - Internal Model
+     - Local Mode
+     - Cluster or YARN mode
+   - External Mode
+ - Starting from Scala command line
+ - Launching Cluster (deploy mode - client vs cluster)
 
