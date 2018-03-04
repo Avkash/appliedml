@@ -36,3 +36,10 @@
    - Importing a File (FLOW | Python | R | Scala)
    - Importing Multiple Files (FLOW | Python | R | Scala)
    - Uploading a File (FLOW | Python | R | Scala)
+
+## [6. Public Datasets available to try with H2O](https://github.com/Avkash/appliedml/blob/master/starter/h2o/datasets_get.md) ##
+ - A List of publicly available datasets to try
+ - Loading datasets into H2O memory in FLOW
+ - Loading datasets into H2O memory using Python API
+ - Loading datasets into H2O memory using R API
+ 
