@@ -43,3 +43,10 @@
  - Loading datasets into H2O memory using Python API
  - Loading datasets into H2O memory using R API
  
+ ## [7. Dataframe manipulation in Python and R](https://github.com/Avkash/appliedml/blob/master/starter/h2o/h2o_frame_man.md) ##
+ - Dataframes in Python and R
+ - Pandas, numpy and H2O Dataframes
+ - H2O and R Dataframes
+ 
+ 
+ 
