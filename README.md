@@ -1,4 +1,4 @@
-# appliedml : Applied Machine Learning
+# appliedml : applied machine learning
 
 ## For the Starters ##
  - [Introduction](https://github.com/Avkash/appliedml/blob/master/starter/README.md)
