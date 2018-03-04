@@ -10,7 +10,7 @@
  - Downloading H2O
    - On Single Machine as Java RunTime
    - For Python
-    - Supports 2.7 and 3.5
+     - Supports 2.7 and 3.5
    - For R
  - Installtion On Premise
  - H2O in Conda Environment
