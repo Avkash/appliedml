@@ -1,4 +1,4 @@
-# appliedml with H2O for starter #
+# appliedml with H2O for starters #
 
 ## [1. Architecture](https://github.com/Avkash/appliedml/blob/master/starter/h2o/h2o_arch.md) ##
  - What is it?
