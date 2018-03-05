@@ -78,11 +78,18 @@
  - Python
  - R
  
- ## [12. Spliting dataset in H2O](https://github.com/Avkash/appliedml/blob/master/advance/h2o/h2o_dataset_split.md) ##
+## [12. Spliting dataset in H2O](https://github.com/Avkash/appliedml/blob/master/advance/h2o/h2o_dataset_split.md) ##
  - Why spliting datasets
  - H2O Dataframe split in Spark
  - H2O Dataframe split in Scala
  
+## [13. Data Manipultion in H2O]() ##
+ - [Fill NAs in H2O data frame (Python | R)](https://github.com/Avkash/appliedml/blob/master/advance/h2o/h2o_data_man_fillna.md)
+ - [Imputing values into H2O Data frame (Python | R)](https://github.com/Avkash/appliedml/blob/master/advance/h2o/h2o_data_man_impute.md)
+ - [Group By operation on data frame (Python | R)](https://github.com/Avkash/appliedml/blob/master/advance/h2o/h2o_data_man_groupby.md)
+ - [Pivoting data frames (Python | R)](https://github.com/Avkash/appliedml/blob/master/advance/h2o/h2o_data_man_pivot.md)
+
+
 
 ## Tips and Tricks ##
   - [Converting pyspark.sql.dataframe.DataFrame to H2O Data Frame](https://github.com/Avkash/appliedml/blob/master/advance/h2o/spark/h2o_spark_df_conversion.md)

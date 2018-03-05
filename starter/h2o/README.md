@@ -54,3 +54,13 @@
  - H2O Dataframe split in Python
  - H2O Dataframe split in R
  
+ 
+ ## [9. Data Manipultion in H2O]() ##
+ - [H2O Pandas Dataframe and vice-versa (Python)](https://github.com/Avkash/appliedml/blob/master/starter/h2o/h2o_data_man_pd_h2o.md)
+ - [Merging Two H2O Dataframes (Python | R)](https://github.com/Avkash/appliedml/blob/master/starter/h2o/h2o_data_man_merge.md)
+ - [Combining Columns from Two Data Frames (Python | R)](https://github.com/Avkash/appliedml/blob/master/starter/h2o/h2o_data_ingest_cbind.md)
+ - [Combining Rows from Two Data frames (Python | R)](https://github.com/Avkash/appliedml/blob/master/starter/h2o/h2o_data_man_rbind.md)
+ - [Slicing Rows from an H2O data frame (Python | R)](https://github.com/Avkash/appliedml/blob/master/starter/h2o/h2o_data_rslice.md)
+ - [Slicing Columns from an H2O data frame (Python | R)](https://github.com/Avkash/appliedml/blob/master/starter/h2o/h2o_data_cslice.md)
+ - [Replacing numeric values in H2O dataframe (Python | R)](https://github.com/Avkash/appliedml/blob/master/starter/h2o/h2o_data_man_replace.md)
+
