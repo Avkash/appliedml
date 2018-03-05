@@ -84,10 +84,10 @@
  - H2O Dataframe split in Scala
  
 ## [13. Data Manipultion in H2O]() ##
- - [Fill NAs in H2O data frame (Python | R)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_data_man_fillna.md)
- - [Imputing values into H2O Data frame (Python | R)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_data_man_impute.md)
- - [Group By operation on data frame (Python | R)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_data_man_groupby.md)
- - [Pivoting data frames (Python | R)](https://github.com/Avkash/mldl/blob/master/orgs/h2o/guide/data/h2o_data_man_pivot.md)
+ - [Fill NAs in H2O data frame (Python | R)](https://github.com/Avkash/appliedml/blob/master/advance/h2o/h2o_data_man_fillna.md)
+ - [Imputing values into H2O Data frame (Python | R)](https://github.com/Avkash/appliedml/blob/master/advance/h2o/h2o_data_man_impute.md)
+ - [Group By operation on data frame (Python | R)](https://github.com/Avkash/appliedml/blob/master/advance/h2o/h2o_data_man_groupby.md)
+ - [Pivoting data frames (Python | R)](https://github.com/Avkash/appliedml/blob/master/advance/h2o/h2o_data_man_pivot.md)
 
 
 
